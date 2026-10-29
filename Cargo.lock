@@ -5174,7 +5174,6 @@ dependencies = [
  "rayon",
  "roxmltree 0.21.1",
  "same-file",
- "semver",
  "serde",
  "serde_json",
  "tempfile",
